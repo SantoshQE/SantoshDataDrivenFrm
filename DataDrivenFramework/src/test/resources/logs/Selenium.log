@@ -1,0 +1,6 @@
+2019-02-07 00:02:36 DEBUG devpinoyLogger:52 - Config properties loaded
+2019-02-07 00:03:11 DEBUG devpinoyLogger:61 - URL loaded
+2019-02-07 00:03:11 DEBUG devpinoyLogger:18 -  loginToMercurySite test --- STARTED
+2019-02-07 00:03:17 DEBUG devpinoyLogger:89 - Assertion Passed for element :By.xpath: //img[@src="/images/masts/mast_flightfinder.gif"]
+2019-02-07 00:03:17 DEBUG devpinoyLogger:23 -  loginToMercurySite test --- ENDED
+2019-02-07 00:03:18 DEBUG devpinoyLogger:81 - Test execution completed

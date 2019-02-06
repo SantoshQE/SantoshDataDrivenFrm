@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="975" started-at="2019-02-06T19:41:59Z" finished-at="2019-02-06T19:42:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="975" started-at="2019-02-06T19:41:59Z" finished-at="2019-02-06T19:42:00Z">
+      <class name="com.tcs.utilities.ExcelDataProvider">
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:com.tcs.utilities.ExcelDataProvider@224edc67]" name="test1" duration-ms="20" started-at="2019-02-07T01:12:00Z" data-provider="test1Data" finished-at="2019-02-07T01:12:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mecury]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:com.tcs.utilities.ExcelDataProvider@224edc67]" name="test1" duration-ms="5" started-at="2019-02-07T01:12:00Z" data-provider="test1Data" finished-at="2019-02-07T01:12:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mercury1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.tcs.utilities.ExcelDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
