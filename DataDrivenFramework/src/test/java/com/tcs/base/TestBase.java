@@ -25,7 +25,7 @@ import com.tcs.utilities.ExcelUtils;
  * WebDriver --> Done
  * Accessing Properties in Test Case Script --> Done
  * Logs --> Required - Log4j.jar, aplication.log, seleium.log,Log4j.properties,Logger class  --> Done
- * 
+ * DataProvider
  * 
  * 
  * 
